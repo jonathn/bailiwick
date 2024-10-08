@@ -1,0 +1,15 @@
+# Clojure tooling
+.clj-kondo/
+.cpcache/
+.lsp/
+.lein-*
+.nrepl-port
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.calva/
+
+# MacOS
+.DS_Store
